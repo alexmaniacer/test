@@ -1,32 +1,16 @@
-SONGS
-----------
-Justin Timberlake - Mirrors
-P!nk - Raise your Glass
-
-Games
----------
-RimWorld
-Torment: Tides of Numenera
-Valkyria Chronicles
-Pillars of Eternity
-Don't Starve
-Salt & Sanctuary
-Inside
-Limbo
-Harvest Moon (Maybe?) (Sardew Valley like)
-Zombie City Defense 2
-Endless Horde
-This war of mine
-
-
-
-
-
-
-
-Motherboard: Asrock A320M-DGS, ~ 52€
-CPU (APU): AMD A8-Series APU 7th Gen A8-9600 (AD9600AGABBOX) ~ 60€
-GPU: ???
-RAM: DDR4 8GB ~ 86€
-HD: WD Caviar Blue 1TB ~ 45€
-Total: ~ 243€  :(
+START
+A(10)
+B(5)
+C(7)
+D(2)
+E(8)
+F(12)
+CONTINUE
+Aoe--Boa--Cat->Day
+Boa->Cat
+Cat<-Day
+Day->Eat
+Eat->Fuck
+Fuck--Gut
+Gut->Hat--Aoe->Day
+END
